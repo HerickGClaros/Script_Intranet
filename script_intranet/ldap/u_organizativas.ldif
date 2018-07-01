@@ -1,0 +1,4 @@
+dn: ou=Usuarios, dc=server,dc=intranet,dc=edu,dc=sv
+objectClass: top
+objectClass: organizationalUnit
+ou: Usuarios

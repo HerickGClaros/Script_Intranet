@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=phpLDAPadmin
+Comment=
+Icon=ldap
+URL=http://localhost/phpldapadmin/

@@ -1,0 +1,557 @@
+#
+# Phraselists to block sports sites 
+# Originally created by Fernand Jonker
+# Greatly improved by David Burkholder in 2007
+#
+# Please send feedback to phrasemaster@dansguardian.org
+# 
+
+#listcategory: "Sport"
+
+#Sites
+sportsillustrated
+ si.com 
+ espn
+
+#Skating
+skate
+stating
+
+#Sports words
+sports scores
+season pass
+season ticket
+scores,stats,sport
+tournament
+team player
+dressing room
+teammate
+train with the team
+spring training
+professional player
+national team
+ regionals 
+midfield
+outfield
+outfitter
+clubhouse
+club member
+club due
+club fee
+ nfl 
+ cfl 
+ rink 
+ nba 
+ wnba 
+ ncaa 
+ nhl 
+ lpga 
+ pga 
+ tpc 
+ wta 
+ mls 
+ uefa 
+ atp 
+home match
+gymnasium
+team tryout
+players association
+trading deadline
+global cup
+world cup
+gladiator65
+referee
+
+#Games & Terms
+basketball
+football
+soccer
+volleyball
+badminton
+hockey
+lacrosse
+fox hunting
+rugby
+baseball
+boxing
+wrestling
+tennis
+racquetball
+cricket
+snooker
+motorsport
+athletics
+playoff
+hall of fame
+pro bowl
+pre-game
+half-time
+halftime
+super bowl
+home run
+badminton
+racket
+shuttlecock
+billiards
+bowling
+boxing
+cricket
+cycling
+hockey
+figure skating
+gymnastics
+lacrosse
+ polo 
+rodeo
+ rowing 
+rugby
+marathon
+softball
+squash
+swim
+diving
+diver
+triathlon
+stadium
+volleyball
+weightlift
+wrestling
+hollywood award
+kiteboard
+
+#Baseball teams
+aberdeen ironbirds
+aguascalientes rieleros
+aiken foxhounds
+akron aeros
+albuquerque isotopes
+alexandria aces
+altoona curve
+amarillo dillas
+anderson joes
+angelópolis tigres
+arkansas travelers
+arizona league 
+#following teams caught by arizona league no overblock so far
+#arizona league angels
+#arizona league athletics
+#arizona league brewers
+#arizona league cubs
+#arizona league giants
+#arizona league mariners
+#arizona league padres
+#arizona league rangers
+#arizona league royals
+asheville tourists
+atlantic city surf
+auburn doubledays
+augusta greenjackets
+bakersfield blaze
+batavia muckdogs
+beloit snappers
+billings mustangs
+binghamton mets
+birmingham barons
+bluefield orioles
+boise hawks
+bowie baysox
+bradenton juice
+brevard county manatees
+bridgeport bluefish
+bristol white sox
+brockton rox
+brooklyn cyclones
+buffalo bisons
+burlington bees
+burlington royals
+calgary vipers
+camden riversharks
+campeche piratas
+carolina mudcats
+casper rockies
+cedar rapids kernels
+charleston riverdogs
+charlotte knights
+charlotte county redfish
+chattanooga lookouts
+chico outlaws
+chillicothe paints
+clearwater threshers
+clinton lumberkings
+coastal bend aviators
+colorado springs sky sox
+columbus catfish
+columbus clippers
+connecticut defenders
+corpus christi hooks
+danville braves
+dayton dragons
+daytona cubs
+delmarva shorebirds
+dunedin blue jays
+durham bulls
+edinburg coyotes
+edmonton cracker-cats
+el paso diablos
+elizabethton twins
+erie seawolves
+eugene emeralds
+evansville otters
+everett aquasox
+fargo-moorhead redhawks
+florence freedom
+fort myers miracle
+fort wayne wizards
+fort worth cats
+frederick keys
+fresno grizzlies
+frisco roughriders
+fullerton flyers
+gary southshore railcats
+gateway grizzlies
+grand canyon rafters
+great falls white sox
+great lakes loons
+greeneville astros
+greensboro grasshoppers
+greenville drive
+gulf coast braves
+gulf coast dodgers
+gulf coast indians
+gulf coast marlins
+gulf coast nationals
+gulf coast phillies
+gulf coast pirates
+gulf coast red
+gulf coast tigers
+gulf coast twins
+gulf coast yankees
+hagerstown suns
+harrisburg senators
+helena brewers
+hickory crawdads
+high desert mavericks
+honolulu sharks
+hudson valley renegades
+huntsville stars
+idaho falls chukars
+indianapolis indians
+inland empire 66ers of san bernardino
+iowa cubs
+jacksonville suns
+jamestown jammers
+johnson city cardinals
+joliet jackhammers
+jupiter hammerheads
+kalamazoo kings
+kane county cougars
+kannapolis intimidators
+kansas city t-bones
+kingsport mets
+kinston indians
+laguna vaqueros
+lake county captains
+lake elsinore storm
+lakeland flying tigers
+lakewood blueclaws
+lancaster barnstormers
+lancaster jethawks
+lansing lugnuts
+laredo broncos
+las vegas 51s
+lexington legends
+lincoln saltdogs
+long beach armada
+long island ducks
+louisville bats
+lowell spinners
+lynchburg hillcats
+macon music
+mahoning valley scrappers
+maryland road warriors
+memphis redbirds
+mesa solar sox
+méxico diablos rojos
+midland rockhounds
+mississippi braves
+missoula osprey
+mobile baybears
+modesto nuts
+monclova acereros
+monterrey sultanes
+montgomery biscuits
+myrtle beach pelicans
+nashua pride
+nashville sounds
+new britain rock cats
+new hampshire fisher cats
+new haven county cutters
+new jersey jackals
+new orleans Zephyrs
+newark bears
+norfolk tides
+north shore honu
+north shore spirit
+oaxaca guerreros
+ogden raptors
+oklahoma redhawks
+omaha royals
+oneonta tigers
+orem owlz
+ottawa lynx
+palm beach cardinals
+pawtucket red sox
+pensacola pelicans
+peoria chiefs
+peoria javelinas
+peoria saguaros
+phoenix desert dogs
+portland beavers
+portland sea dogs
+potomac nationals
+princeton devil rays
+puebla pericos
+Quebec capitales
+rancho cucamonga Quakes
+reading phillies
+reno silver sox
+richmond braves
+rio grande valley whitewings
+river city rascals
+rochester red wings
+rockford riverhawks
+rome braves
+round rock express
+sacramento river cats
+salem avalanche
+salem-keizer volcanoes
+salt lake bees
+saltillo saraperos
+san angelo colts
+san antonio missions
+san diego surf dawgs
+san jose giants
+san luis tuneros
+sarasota reds
+savannah sand gnats
+schaumburg flyers
+scranton/wilkes-barre red barons
+slippery rock sliders
+shreveport sports
+sioux city explorers
+sioux falls canaries
+somerset patriots
+south bend silver hawks
+south georgia peanuts
+southern illinois miners
+southern maryland blue crabs
+spokane indians
+springfield cardinals
+state college spikes
+staten island yankees
+stockton ports
+st. george roadrunners
+st. joe blacksnakes
+st. lucie mets
+st. paul saints
+surprise scorpions
+sussex skyhawks
+swing of the Quad cities
+syracuse chiefs
+tabasco olmecas
+tacoma rainiers
+tampa yankees
+tennessee smokies
+tijuana portros
+toledo mud hens
+traverse city beach bums
+trenton thunder
+tri-city dust devils
+tri-city valley cats
+tucson sidewinders
+tulsa drillers
+utica blue sox
+vancouver canadians
+rojos del Águila de veracruz
+vermont lake monsters
+vero beach dodgers
+visalia oaks
+waikiki beach boys
+washington wild things
+west michigan whitecaps
+west oahu canefires
+west tenn diamond jaxx
+west virginia power
+wichita wranglers
+williamsport crosscutters
+wilmington blue rocks
+windy city thunderbolts
+winnipeg goldeyes
+winston-salem warthogs
+wisconsin timber rattlers
+worcester tornadoes
+yakima bears
+york revolution
+yucatán leones
+yuma scorpions
+
+#Hockey teams
+atlanta thrashers
+boston bruins
+buffalo sabres
+calgary flames
+carolina hurricanes
+chicago blackhawks
+colorado avalanche
+columbus blue jackets
+dallas stars
+detroit red wings
+edmonton oilers
+florida panthers
+los angeles kings
+minnesota wild
+montreal canadiens
+nashville predators
+new jersey devils
+new york islanders
+new york rangers
+ottawa senators
+philadelphia flyers
+phoenix coyotes
+pittsburgh penguins
+san jose sharks
+st. louis blues
+stanley cup
+tampa bay lightning
+toronto maple leafs
+vancouver canucks
+washington capitals
+
+#Football teams
+arizona cardinals
+atlanta falcons
+baltimore colts
+baltimore ravens
+boston patriots
+buffalo bills
+carolina panthers
+chicago bears
+cincinnati bengals
+cleveland browns
+dallas cowboys
+dallas texans
+denver broncos
+detroit lions
+green bay packers
+houston oilers
+houston texans
+indianapolis colts
+jacksonville jaguars
+kansas city chiefs
+los angeles chargers
+los angeles raiders
+los angeles rams
+miami dolphins
+minnesota vikings
+new england patriots
+new orleans saints
+new york giants
+new york jets
+new york titans
+oakland raiders
+philadelphia eagles
+phoenix cardinals
+pittsburgh steelers
+san diego chargers
+san francisco 49ers
+seattle seahawks
+st. louis cardinals
+st. louis rams
+tampa bay buccaneers
+tennessee titans
+washington redskins
+
+#Sailing
+vuitton cup
+valencia
+boat race
+yacht race
+windsurf
+outboard
+canoeing
+rafting
+kayak
+yacht club
+
+
+#Soccer
+scottish premier league
+barclays premiership
+carling cup
+scottish league cup
+club deportivo chivas usa
+league champion
+fa cup
+lg cup
+fc dallas
+houston dynamo
+kansas city wizards
+los angeles galaxy
+new england revolution
+new york red bulls
+portuguese premier league
+real salt lake
+san jose earthquakes
+spanish primera liga
+scottish cup
+celtic cup
+african nations cup
+
+#Tennis
+australian open
+davis cup
+federation cup
+french open
+wimbledon
+
+#Golf
+# golf  overblocks auto & lawn & garden sites
+champions tour
+golf course
+golf club
+golf ball
+golf play
+golf swing
+golf score
+golf news
+golfer
+golfing
+golf,putt
+golf,tee
+european tour
+nationwide tour
+u.s. open
+u.s. senior open
+youth clinics
+
+#racing
+ nhra 
+ irl 
+ iroc 
+ wrc 
+drag racing
+horse racing
+car racing
+auto racing
+motorcycle racing
+formula 1
+indy car
+nascar
+
+#Olympics
+olympic games40
+olympic team40
+ olympic 
+
+
+

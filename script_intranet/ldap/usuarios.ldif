@@ -1,0 +1,32 @@
+dn: uid=profesor1,ou=Usuarios,dc=server,dc=intranet,dc=edu,dc=sv
+objectClass: top
+objectClass: posixAccount
+objectClass: inetOrgPerson
+objectClass: person
+cn:: cHJvZmVzb3IK
+uid: profesor1
+uidNumber: 1001
+gidNumber: 2000
+homeDirectory: /home/nfs/profesor1
+loginShell: /bin/bash
+userPassword: {SSHA}iiP7L6jU93n1QVuUl+PWLjcck6gHZ1wq
+sn:: cHJvZmVzb3IK
+mail: profesor1@gmail.com
+givenName: profesor1
+
+
+dn: uid=alumno1,ou=Usuarios,dc=server,dc=intranet,dc=edu,dc=sv
+objectClass: top
+objectClass: posixAccount
+objectClass: inetOrgPerson
+objectClass: person
+cn:: YWx1bW5vCg==
+uid: alumno1
+uidNumber: 2001
+gidNumber: 2001
+homeDirectory: /home/nfs/alumno1
+loginShell: /bin/bash
+userPassword: {SSHA}yQou7PoOxZyA8Gz9PXQ27jWBJoH1z3dV
+sn:: YWx1bW5vCg==
+mail: alumno1@gmail.com
+givenName: alumno1

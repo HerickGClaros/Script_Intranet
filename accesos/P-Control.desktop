@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=P-Control
+Comment=Control parental - Filtro Web
+Exec=/etc/filtro.sh
+Icon=p-control
+Path=
+Terminal=true
+StartupNotify=true

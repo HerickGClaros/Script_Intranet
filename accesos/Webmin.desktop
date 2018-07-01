@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Webmin
+Comment=
+Icon=webmin
+URL=https://server:10000/
+Name[es_SV]=Webmin

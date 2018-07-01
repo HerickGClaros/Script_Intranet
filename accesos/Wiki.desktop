@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Wiki
+Comment=
+Exec=/var/servicios/kiwix/kiwix
+Icon=wiki
+Path=
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,12 @@
+dn: cn=Profesores,ou=Usuarios,dc=server,dc=intranet,dc=edu,dc=sv
+objectClass: top
+objectClass: posixGroup
+gidNumber: 2000
+cn: Profesores
+
+
+dn: cn=Alumnos,ou=Usuarios,dc=server,dc=intranet,dc=edu,dc=sv
+objectClass: top
+objectClass: posixGroup
+gidNumber: 2001
+cn: Alumnos

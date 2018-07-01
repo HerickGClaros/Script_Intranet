@@ -1,0 +1,12 @@
+--- rules	2017-06-02 18:36:55.000000000 -0400
++++ rules.new	2017-09-21 15:43:40.085186837 -0400
+@@ -28,6 +28,9 @@
+ 		--enable-delay-pools \
+ 		--enable-cache-digests \
+ 		--enable-icap-client \
++		--enable-ssl \
++		--enable-ssl-crtd \
++		--with-openssl \
+ 		--enable-follow-x-forwarded-for \
+ 		--enable-auth-basic="DB,fake,getpwnam,LDAP,NCSA,NIS,PAM,POP3,RADIUS,SASL,SMB" \
+ 		--enable-auth-digest="file,LDAP" \
